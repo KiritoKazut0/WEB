@@ -1,0 +1,48 @@
+div.Container-room {
+    width: 100%;
+    background-size: contain;
+    grid-column: 2 / 3; 
+    background-repeat: no-repeat;
+    border: 1px solid rgba(0, 0, 0, 0.47);
+    text-align: center;
+    overflow: hidden;
+}
+
+img.habitacion{
+    width: 75%;
+    height: 100%;
+}
+
+.foco {
+   position: absolute;
+    left: 56%;
+    top: 50px;
+    color: rgba(0, 0, 0, 0.227);
+    transform: rotate(180deg);
+}
+
+
+.focoOn{
+    position: absolute;
+    left: 56%;
+    top: 50px;
+     color: yellow;
+ }
+
+img.aire{
+    position: absolute;
+    width: 9%;
+    top: 50px;
+    left: 63%;
+    transform: rotate(352deg);
+    
+}
+
+img.On{
+    position: absolute;
+    width: 10%;
+    top: 50px;
+    left: 63%;
+    transform: rotate(355deg);
+    
+}

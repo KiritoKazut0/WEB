@@ -1,0 +1,11 @@
+div.container-baño {
+    grid-column: 1 / 2;
+    height: auto;
+    border: 1px solid rgba(0, 0, 0, 0.47);
+
+}
+
+img.Bathroom {
+    width: 100%;
+    object-fit: cover;
+}

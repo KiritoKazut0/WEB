@@ -1,0 +1,18 @@
+
+
+div.main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.Container-home {
+    width: 60%;
+    height: 90vh;
+    margin: 5vh 5%;
+    display: grid;
+    grid-template-columns: 4fr 5fr;
+    grid-template-rows: 1fr 1fr;
+}
+

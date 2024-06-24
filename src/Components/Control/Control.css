@@ -1,0 +1,20 @@
+button{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none;
+    gap: 12px;
+    font-size: 16px;
+    color: rgb(20, 68, 135);
+   
+}
+
+div.control{
+    display: flex;
+    width: 15%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
